@@ -16,9 +16,9 @@ A robust and lightweight RESTful Ticket System API built using **Golang**, the *
 
 ## Submission Details
 
-- **GitHub Repository Link**: `[Your GitHub Repo URL]`
-- **Deployed Application URL**: `[Your Deployed App URL]`
-- **Public Health Check URL**: `[Your Deployed App URL]/health`
+- **GitHub Repository Link**: https://github.com/Aditya25328/ticket_system.git
+- **Deployed Application URL**: https://ticket-system-1qss.onrender.com
+- **Public Health Check URL**: https://ticket-system-1qss.onrender.com/health
 
 ---
 
